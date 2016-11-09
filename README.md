@@ -1,8 +1,8 @@
-# ElasticSearch With Ingest Plugin #
+## ElasticSearch With Ingest Plugin ##
 
 ## Setup ##
 
-    $ docker run -d -p 9200:9200 -p 9300:9300 srohatgi/elasticsearch-ingest:5.0
+    $ docker run -d -p 9200:9200 -p 9300:9300 srohatgi/elasticsearch-ingest
 
 ## Using ##
 
